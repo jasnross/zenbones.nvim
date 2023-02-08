@@ -17,7 +17,6 @@
         "exclude": [
             "iterm",
             "alacritty",
-            "kitty",
             "wezterm",
             "tmux",
             "windows_terminal",
@@ -31,7 +30,6 @@
         "exclude": [
             "iterm",
             "alacritty",
-            "kitty",
             "wezterm",
             "tmux",
             "windows_terminal",
@@ -44,7 +42,6 @@
         "exclude": [
             "iterm",
             "alacritty",
-            "kitty",
             "wezterm",
             "tmux",
             "windows_terminal",
@@ -57,7 +54,6 @@
         "exclude": [
             "iterm",
             "alacritty",
-            "kitty",
             "wezterm",
             "tmux",
             "windows_terminal",
